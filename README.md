@@ -88,11 +88,9 @@ A tabular view segmented by **Loan Status** (Fully Paid, Current, Charged Off) w
 
 ---
 
-## 🛠️ Tech Stack (Suggested)  
-- **Data Processing:** Python (Pandas, NumPy), SQL  
-- **Visualization:** Power BI / Tableau / Excel Dashboards  
-- **Automation:** Airflow, CI/CD pipelines  
-- **Cloud & Storage:** AWS, Azure, GCP, Snowflake  
+## 🛠️ Tech Stack   
+- **Visualization:**Excel Dashboards  
+  
 
 ---
 
